@@ -1,0 +1,744 @@
+{
+    "nodes": [
+        {
+            "id": "ABRAM",
+            "type": "Montague Adjacent",
+            "count": 5,
+            "gender": "male"
+        },
+        {
+            "id": "NURSE",
+            "type": "Capulet Adjacent",
+            "count": 90,
+            "gender": "female"
+        },
+        {
+            "id": "JULIET",
+            "type": "Capulet",
+            "count": 118,
+            "gender": "female"
+        },
+        {
+            "id": "LADY CAPULET",
+            "type": "Capulet",
+            "count": 45,
+            "gender": "female"
+        },
+        {
+            "id": "PAGE",
+            "type": "Other",
+            "count": 4,
+            "gender": "male"
+        },
+        {
+            "id": "CAPULET\u2019S COUSIN",
+            "type": "Other",
+            "count": 2,
+            "gender": "male"
+        },
+        {
+            "id": "CAPULET",
+            "type": "Capulet",
+            "count": 50,
+            "gender": "male"
+        },
+        {
+            "id": "GREGORY",
+            "type": "Capulet Adjacent",
+            "count": 15,
+            "gender": "male"
+        },
+        {
+            "id": "LADY MONTAGUE",
+            "type": "Montague",
+            "count": 2,
+            "gender": "male"
+        },
+        {
+            "id": "FRIAR LAWRENCE",
+            "type": "Other",
+            "count": 55,
+            "gender": "male"
+        },
+        {
+            "id": "MERCUTIO",
+            "type": "Other",
+            "count": 62,
+            "gender": "male"
+        },
+        {
+            "id": "ROMEO",
+            "type": "Montague",
+            "count": 162,
+            "gender": "male"
+        },
+        {
+            "id": "PARIS",
+            "type": "Other",
+            "count": 23,
+            "gender": "male"
+        },
+        {
+            "id": "PRINCE",
+            "type": "Other",
+            "count": 16,
+            "gender": "male"
+        },
+        {
+            "id": "PETER",
+            "type": "Capulet Adjacent",
+            "count": 13,
+            "gender": "male"
+        },
+        {
+            "id": "BALTHASAR",
+            "type": "Montague Adjacent",
+            "count": 12,
+            "gender": "male"
+        },
+        {
+            "id": "CHORUS",
+            "type": "Other",
+            "count": 4,
+            "gender": "male"
+        },
+        {
+            "id": "FRIAR JOHN",
+            "type": "Other",
+            "count": 4,
+            "gender": "male"
+        },
+        {
+            "id": "SAMPSON",
+            "type": "Capulet Adjacent",
+            "count": 20,
+            "gender": "male"
+        },
+        {
+            "id": "MONTAGUE",
+            "type": "Montague",
+            "count": 10,
+            "gender": "male"
+        },
+        {
+            "id": "BENVOLIO",
+            "type": "Montague",
+            "count": 63,
+            "gender": "male"
+        },
+        {
+            "id": "TYBALT",
+            "type": "Capulet",
+            "count": 17,
+            "gender": "male"
+        }
+    ],
+    "links": [
+        {
+            "source": "SAMPSON",
+            "target": "GREGORY",
+            "count": 15,
+            "type": "Capulet Adjacent"
+        },
+        {
+            "source": "GREGORY",
+            "target": "SAMPSON",
+            "count": 14,
+            "type": "Capulet Adjacent"
+        },
+        {
+            "source": "SAMPSON",
+            "target": "ABRAM",
+            "count": 4,
+            "type": "Capulet Adjacent"
+        },
+        {
+            "source": "ABRAM",
+            "target": "SAMPSON",
+            "count": 5,
+            "type": "Montague Adjacent"
+        },
+        {
+            "source": "GREGORY",
+            "target": "ABRAM",
+            "count": 1,
+            "type": "Capulet Adjacent"
+        },
+        {
+            "source": "SAMPSON",
+            "target": "BENVOLIO",
+            "count": 1,
+            "type": "Capulet Adjacent"
+        },
+        {
+            "source": "BENVOLIO",
+            "target": "TYBALT",
+            "count": 2,
+            "type": "Montague"
+        },
+        {
+            "source": "TYBALT",
+            "target": "BENVOLIO",
+            "count": 1,
+            "type": "Capulet"
+        },
+        {
+            "source": "CAPULET",
+            "target": "LADY CAPULET",
+            "count": 8,
+            "type": "Capulet"
+        },
+        {
+            "source": "LADY CAPULET",
+            "target": "CAPULET",
+            "count": 11,
+            "type": "Capulet"
+        },
+        {
+            "source": "CAPULET",
+            "target": "MONTAGUE",
+            "count": 2,
+            "type": "Capulet"
+        },
+        {
+            "source": "MONTAGUE",
+            "target": "LADY MONTAGUE",
+            "count": 1,
+            "type": "Montague"
+        },
+        {
+            "source": "LADY MONTAGUE",
+            "target": "PRINCE",
+            "count": 1,
+            "type": "Montague"
+        },
+        {
+            "source": "PRINCE",
+            "target": "MONTAGUE",
+            "count": 4,
+            "type": "Other"
+        },
+        {
+            "source": "MONTAGUE",
+            "target": "BENVOLIO",
+            "count": 5,
+            "type": "Montague"
+        },
+        {
+            "source": "BENVOLIO",
+            "target": "LADY MONTAGUE",
+            "count": 1,
+            "type": "Montague"
+        },
+        {
+            "source": "LADY MONTAGUE",
+            "target": "BENVOLIO",
+            "count": 1,
+            "type": "Montague"
+        },
+        {
+            "source": "BENVOLIO",
+            "target": "MONTAGUE",
+            "count": 4,
+            "type": "Montague"
+        },
+        {
+            "source": "BENVOLIO",
+            "target": "ROMEO",
+            "count": 29,
+            "type": "Montague"
+        },
+        {
+            "source": "ROMEO",
+            "target": "BENVOLIO",
+            "count": 27,
+            "type": "Montague"
+        },
+        {
+            "source": "BENVOLIO",
+            "target": "CAPULET",
+            "count": 1,
+            "type": "Montague"
+        },
+        {
+            "source": "CAPULET",
+            "target": "PARIS",
+            "count": 6,
+            "type": "Capulet"
+        },
+        {
+            "source": "PARIS",
+            "target": "CAPULET",
+            "count": 5,
+            "type": "Other"
+        },
+        {
+            "source": "ROMEO",
+            "target": "LADY CAPULET",
+            "count": 1,
+            "type": "Montague"
+        },
+        {
+            "source": "LADY CAPULET",
+            "target": "NURSE",
+            "count": 13,
+            "type": "Capulet"
+        },
+        {
+            "source": "NURSE",
+            "target": "JULIET",
+            "count": 37,
+            "type": "Capulet Adjacent"
+        },
+        {
+            "source": "JULIET",
+            "target": "NURSE",
+            "count": 37,
+            "type": "Capulet"
+        },
+        {
+            "source": "JULIET",
+            "target": "LADY CAPULET",
+            "count": 18,
+            "type": "Capulet"
+        },
+        {
+            "source": "NURSE",
+            "target": "LADY CAPULET",
+            "count": 13,
+            "type": "Capulet Adjacent"
+        },
+        {
+            "source": "LADY CAPULET",
+            "target": "JULIET",
+            "count": 17,
+            "type": "Capulet"
+        },
+        {
+            "source": "NURSE",
+            "target": "ROMEO",
+            "count": 19,
+            "type": "Capulet Adjacent"
+        },
+        {
+            "source": "ROMEO",
+            "target": "MERCUTIO",
+            "count": 31,
+            "type": "Montague"
+        },
+        {
+            "source": "MERCUTIO",
+            "target": "ROMEO",
+            "count": 28,
+            "type": "Other"
+        },
+        {
+            "source": "MERCUTIO",
+            "target": "BENVOLIO",
+            "count": 21,
+            "type": "Other"
+        },
+        {
+            "source": "CAPULET",
+            "target": "CAPULET\u2019S COUSIN",
+            "count": 2,
+            "type": "Capulet"
+        },
+        {
+            "source": "CAPULET\u2019S COUSIN",
+            "target": "CAPULET",
+            "count": 2,
+            "type": "Other"
+        },
+        {
+            "source": "CAPULET",
+            "target": "ROMEO",
+            "count": 1,
+            "type": "Capulet"
+        },
+        {
+            "source": "ROMEO",
+            "target": "TYBALT",
+            "count": 3,
+            "type": "Montague"
+        },
+        {
+            "source": "TYBALT",
+            "target": "CAPULET",
+            "count": 5,
+            "type": "Capulet"
+        },
+        {
+            "source": "CAPULET",
+            "target": "TYBALT",
+            "count": 5,
+            "type": "Capulet"
+        },
+        {
+            "source": "TYBALT",
+            "target": "ROMEO",
+            "count": 5,
+            "type": "Capulet"
+        },
+        {
+            "source": "ROMEO",
+            "target": "JULIET",
+            "count": 37,
+            "type": "Montague"
+        },
+        {
+            "source": "JULIET",
+            "target": "ROMEO",
+            "count": 37,
+            "type": "Capulet"
+        },
+        {
+            "source": "ROMEO",
+            "target": "NURSE",
+            "count": 16,
+            "type": "Montague"
+        },
+        {
+            "source": "ROMEO",
+            "target": "CAPULET",
+            "count": 2,
+            "type": "Montague"
+        },
+        {
+            "source": "CAPULET",
+            "target": "JULIET",
+            "count": 8,
+            "type": "Capulet"
+        },
+        {
+            "source": "CHORUS",
+            "target": "ROMEO",
+            "count": 1,
+            "type": "Other"
+        },
+        {
+            "source": "BENVOLIO",
+            "target": "MERCUTIO",
+            "count": 21,
+            "type": "Montague"
+        },
+        {
+            "source": "ROMEO",
+            "target": "FRIAR LAWRENCE",
+            "count": 24,
+            "type": "Montague"
+        },
+        {
+            "source": "FRIAR LAWRENCE",
+            "target": "ROMEO",
+            "count": 21,
+            "type": "Other"
+        },
+        {
+            "source": "FRIAR LAWRENCE",
+            "target": "MERCUTIO",
+            "count": 1,
+            "type": "Other"
+        },
+        {
+            "source": "MERCUTIO",
+            "target": "NURSE",
+            "count": 6,
+            "type": "Other"
+        },
+        {
+            "source": "NURSE",
+            "target": "PETER",
+            "count": 3,
+            "type": "Capulet Adjacent"
+        },
+        {
+            "source": "PETER",
+            "target": "NURSE",
+            "count": 3,
+            "type": "Capulet Adjacent"
+        },
+        {
+            "source": "NURSE",
+            "target": "MERCUTIO",
+            "count": 4,
+            "type": "Capulet Adjacent"
+        },
+        {
+            "source": "NURSE",
+            "target": "BENVOLIO",
+            "count": 1,
+            "type": "Capulet Adjacent"
+        },
+        {
+            "source": "NURSE",
+            "target": "NURSE",
+            "count": 1,
+            "type": "Capulet Adjacent"
+        },
+        {
+            "source": "JULIET",
+            "target": "FRIAR LAWRENCE",
+            "count": 11,
+            "type": "Capulet"
+        },
+        {
+            "source": "FRIAR LAWRENCE",
+            "target": "JULIET",
+            "count": 8,
+            "type": "Other"
+        },
+        {
+            "source": "MERCUTIO",
+            "target": "TYBALT",
+            "count": 7,
+            "type": "Other"
+        },
+        {
+            "source": "TYBALT",
+            "target": "MERCUTIO",
+            "count": 5,
+            "type": "Capulet"
+        },
+        {
+            "source": "PRINCE",
+            "target": "BENVOLIO",
+            "count": 2,
+            "type": "Other"
+        },
+        {
+            "source": "BENVOLIO",
+            "target": "LADY CAPULET",
+            "count": 2,
+            "type": "Montague"
+        },
+        {
+            "source": "LADY CAPULET",
+            "target": "PRINCE",
+            "count": 4,
+            "type": "Capulet"
+        },
+        {
+            "source": "MONTAGUE",
+            "target": "PRINCE",
+            "count": 3,
+            "type": "Montague"
+        },
+        {
+            "source": "PRINCE",
+            "target": "JULIET",
+            "count": 1,
+            "type": "Other"
+        },
+        {
+            "source": "FRIAR LAWRENCE",
+            "target": "NURSE",
+            "count": 4,
+            "type": "Other"
+        },
+        {
+            "source": "NURSE",
+            "target": "FRIAR LAWRENCE",
+            "count": 2,
+            "type": "Capulet Adjacent"
+        },
+        {
+            "source": "PARIS",
+            "target": "LADY CAPULET",
+            "count": 2,
+            "type": "Other"
+        },
+        {
+            "source": "JULIET",
+            "target": "CAPULET",
+            "count": 5,
+            "type": "Capulet"
+        },
+        {
+            "source": "CAPULET",
+            "target": "NURSE",
+            "count": 9,
+            "type": "Capulet"
+        },
+        {
+            "source": "NURSE",
+            "target": "CAPULET",
+            "count": 7,
+            "type": "Capulet Adjacent"
+        },
+        {
+            "source": "FRIAR LAWRENCE",
+            "target": "PARIS",
+            "count": 6,
+            "type": "Other"
+        },
+        {
+            "source": "PARIS",
+            "target": "FRIAR LAWRENCE",
+            "count": 2,
+            "type": "Other"
+        },
+        {
+            "source": "PARIS",
+            "target": "JULIET",
+            "count": 9,
+            "type": "Other"
+        },
+        {
+            "source": "JULIET",
+            "target": "PARIS",
+            "count": 6,
+            "type": "Capulet"
+        },
+        {
+            "source": "CAPULET",
+            "target": "FRIAR LAWRENCE",
+            "count": 3,
+            "type": "Capulet"
+        },
+        {
+            "source": "FRIAR LAWRENCE",
+            "target": "CAPULET",
+            "count": 2,
+            "type": "Other"
+        },
+        {
+            "source": "NURSE",
+            "target": "PARIS",
+            "count": 1,
+            "type": "Capulet Adjacent"
+        },
+        {
+            "source": "ROMEO",
+            "target": "BALTHASAR",
+            "count": 5,
+            "type": "Montague"
+        },
+        {
+            "source": "BALTHASAR",
+            "target": "ROMEO",
+            "count": 5,
+            "type": "Montague Adjacent"
+        },
+        {
+            "source": "ROMEO",
+            "target": "FRIAR JOHN",
+            "count": 1,
+            "type": "Montague"
+        },
+        {
+            "source": "FRIAR JOHN",
+            "target": "FRIAR LAWRENCE",
+            "count": 4,
+            "type": "Other"
+        },
+        {
+            "source": "FRIAR LAWRENCE",
+            "target": "FRIAR JOHN",
+            "count": 3,
+            "type": "Other"
+        },
+        {
+            "source": "PARIS",
+            "target": "PAGE",
+            "count": 1,
+            "type": "Other"
+        },
+        {
+            "source": "PAGE",
+            "target": "PARIS",
+            "count": 2,
+            "type": "Other"
+        },
+        {
+            "source": "PARIS",
+            "target": "ROMEO",
+            "count": 4,
+            "type": "Other"
+        },
+        {
+            "source": "ROMEO",
+            "target": "PARIS",
+            "count": 2,
+            "type": "Montague"
+        },
+        {
+            "source": "ROMEO",
+            "target": "PAGE",
+            "count": 1,
+            "type": "Montague"
+        },
+        {
+            "source": "FRIAR LAWRENCE",
+            "target": "BALTHASAR",
+            "count": 6,
+            "type": "Other"
+        },
+        {
+            "source": "BALTHASAR",
+            "target": "FRIAR LAWRENCE",
+            "count": 6,
+            "type": "Montague Adjacent"
+        },
+        {
+            "source": "JULIET",
+            "target": "PAGE",
+            "count": 1,
+            "type": "Capulet"
+        },
+        {
+            "source": "PRINCE",
+            "target": "CAPULET",
+            "count": 2,
+            "type": "Other"
+        },
+        {
+            "source": "PRINCE",
+            "target": "FRIAR LAWRENCE",
+            "count": 2,
+            "type": "Other"
+        },
+        {
+            "source": "FRIAR LAWRENCE",
+            "target": "PRINCE",
+            "count": 2,
+            "type": "Other"
+        },
+        {
+            "source": "PRINCE",
+            "target": "BALTHASAR",
+            "count": 1,
+            "type": "Other"
+        },
+        {
+            "source": "BALTHASAR",
+            "target": "PRINCE",
+            "count": 1,
+            "type": "Montague Adjacent"
+        },
+        {
+            "source": "PRINCE",
+            "target": "PAGE",
+            "count": 1,
+            "type": "Other"
+        },
+        {
+            "source": "PAGE",
+            "target": "PRINCE",
+            "count": 1,
+            "type": "Other"
+        },
+        {
+            "source": "MONTAGUE",
+            "target": "CAPULET",
+            "count": 1,
+            "type": "Montague"
+        },
+        {
+            "source": "CAPULET",
+            "target": "PRINCE",
+            "count": 1,
+            "type": "Capulet"
+        }
+    ]
+}
