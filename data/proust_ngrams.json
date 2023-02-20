@@ -1,0 +1,5865 @@
+{
+ "name": "French N-Grams",
+ "children": [
+  {
+   "name": "on",
+   "children": [
+    {
+     "name": "ne",
+     "children": [
+      {
+       "name": "peut",
+       "children": [
+        {
+         "name": "on ne peut pas",
+         "value": 8
+        }
+       ]
+      },
+      {
+       "name": "conna\u00eet",
+       "children": [
+        {
+         "name": "on ne conna\u00eet pas",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "pourrait",
+       "children": [
+        {
+         "name": "on ne pourrait pas",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "lui",
+     "children": [
+      {
+       "name": "avait",
+       "children": [
+        {
+         "name": "on lui avait parl\u00e9",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "avait",
+     "children": [
+      {
+       "name": "dit",
+       "children": [
+        {
+         "name": "on avait dit qu",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "ne",
+   "children": [
+    {
+     "name": "pas",
+     "children": [
+      {
+       "name": "avoir",
+       "children": [
+        {
+         "name": "ne pas avoir air",
+         "value": 7
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "lui",
+     "children": [
+      {
+       "name": "avait",
+       "children": [
+        {
+         "name": "ne lui avait pas",
+         "value": 5
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "vous",
+     "children": [
+      {
+       "name": "dis",
+       "children": [
+        {
+         "name": "ne vous dis pas",
+         "value": 4
+        }
+       ]
+      },
+      {
+       "name": "aurais",
+       "children": [
+        {
+         "name": "ne vous aurais pas",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "se",
+     "children": [
+      {
+       "name": "rendait",
+       "children": [
+        {
+         "name": "ne se rendait pas",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "sais",
+     "children": [
+      {
+       "name": "pas",
+       "children": [
+        {
+         "name": "ne sais pas si",
+         "value": 5
+        },
+        {
+         "name": "ne sais pas moi",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "les",
+     "children": [
+      {
+       "name": "avait",
+       "children": [
+        {
+         "name": "ne les avait pas",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "la",
+     "children": [
+      {
+       "name": "connaissaient",
+       "children": [
+        {
+         "name": "ne la connaissaient pas",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "crois",
+     "children": [
+      {
+       "name": "pas",
+       "children": [
+        {
+         "name": "ne crois pas que",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "ma\u00eetresse",
+   "children": [
+    {
+     "name": "de",
+     "children": [
+      {
+       "name": "la",
+       "children": [
+        {
+         "name": "ma\u00eetresse de la maison",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "livre",
+   "children": [
+    {
+     "name": "que",
+     "children": [
+      {
+       "name": "je",
+       "children": [
+        {
+         "name": "livre que je lisais",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "bois",
+   "children": [
+    {
+     "name": "sont",
+     "children": [
+      {
+       "name": "d\u00e9j\u00e0",
+       "children": [
+        {
+         "name": "bois sont d\u00e9j\u00e0 noirs",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "vous",
+   "children": [
+    {
+     "name": "savez",
+     "children": [
+      {
+       "name": "que",
+       "children": [
+        {
+         "name": "vous savez que je",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "phrase",
+   "children": [
+    {
+     "name": "de",
+     "children": [
+      {
+       "name": "la",
+       "children": [
+        {
+         "name": "phrase de la sonate",
+         "value": 5
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "main",
+   "children": [
+    {
+     "name": "tremble",
+     "children": [
+      {
+       "name": "si",
+       "children": [
+        {
+         "name": "main tremble si fort",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "comme",
+   "children": [
+    {
+     "name": "on",
+     "children": [
+      {
+       "name": "le",
+       "children": [
+        {
+         "name": "comme on le verra",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "tout",
+     "children": [
+      {
+       "name": "le",
+       "children": [
+        {
+         "name": "comme tout le monde",
+         "value": 5
+        }
+       ]
+      },
+      {
+       "name": "ce",
+       "children": [
+        {
+         "name": "comme tout ce qui",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "si",
+     "children": [
+      {
+       "name": "avait",
+       "children": [
+        {
+         "name": "comme si avait \u00e9t\u00e9",
+         "value": 8
+        }
+       ]
+      },
+      {
+       "name": "elle",
+       "children": [
+        {
+         "name": "comme si elle avait",
+         "value": 4
+        },
+        {
+         "name": "comme si elle \u00e9tait",
+         "value": 3
+        },
+        {
+         "name": "comme si elle e\u00fbt",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "il",
+     "children": [
+      {
+       "name": "venait",
+       "children": [
+        {
+         "name": "comme il venait de",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "chaque",
+     "children": [
+      {
+       "name": "fois",
+       "children": [
+        {
+         "name": "comme chaque fois qu",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "quelqu",
+   "children": [
+    {
+     "name": "une",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "quelqu une de ces",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "un",
+     "children": [
+      {
+       "name": "qu",
+       "children": [
+        {
+         "name": "quelqu un qu on",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "le",
+   "children": [
+    {
+     "name": "c\u00f4t\u00e9",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "le c\u00f4t\u00e9 de guermantes",
+         "value": 6
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "plaisir",
+     "children": [
+      {
+       "name": "qu",
+       "children": [
+        {
+         "name": "le plaisir qu il",
+         "value": 6
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "clair",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "le clair de lune",
+         "value": 6
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "cours",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "le cours de la",
+         "value": 5
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "jour",
+     "children": [
+      {
+       "name": "o\u00f9",
+       "children": [
+        {
+         "name": "le jour o\u00f9 il",
+         "value": 5
+        }
+       ]
+      },
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "le jour de la",
+         "value": 4
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "docteur",
+     "children": [
+      {
+       "name": "cottard",
+       "children": [
+        {
+         "name": "le docteur cottard qui",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "visage",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "le visage de swann",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "temps",
+     "children": [
+      {
+       "name": "qu",
+       "children": [
+        {
+         "name": "le temps qu il",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "souvenir",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "le souvenir de sa",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "soir",
+     "children": [
+      {
+       "name": "o\u00f9",
+       "children": [
+        {
+         "name": "le soir o\u00f9 il",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "sentiment",
+     "children": [
+      {
+       "name": "qu",
+       "children": [
+        {
+         "name": "le sentiment qu il",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "reste",
+     "children": [
+      {
+       "name": "du",
+       "children": [
+        {
+         "name": "le reste du temps",
+         "value": 4
+        }
+       ]
+      },
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "le reste de la",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "prince",
+     "children": [
+      {
+       "name": "des",
+       "children": [
+        {
+         "name": "le prince des laumes",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "nom",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "le nom de gilberte",
+         "value": 3
+        },
+        {
+         "name": "le nom de balbec",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "long",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "le long de la",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "mais",
+   "children": [
+    {
+     "name": "ma",
+     "children": [
+      {
+       "name": "grand",
+       "children": [
+        {
+         "name": "mais ma grand m\u00e8re",
+         "value": 4
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "le",
+     "children": [
+      {
+       "name": "plus",
+       "children": [
+        {
+         "name": "mais le plus souvent",
+         "value": 4
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "ce",
+     "children": [
+      {
+       "name": "est",
+       "children": [
+        {
+         "name": "mais ce est pas",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "il",
+     "children": [
+      {
+       "name": "avait",
+       "children": [
+        {
+         "name": "mais il avait pas",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "qu",
+     "children": [
+      {
+       "name": "elle",
+       "children": [
+        {
+         "name": "mais qu elle le",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "je",
+     "children": [
+      {
+       "name": "ai",
+       "children": [
+        {
+         "name": "mais je ai pas",
+         "value": 4
+        }
+       ]
+      },
+      {
+       "name": "ne",
+       "children": [
+        {
+         "name": "mais je ne sais",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "croyais",
+       "children": [
+        {
+         "name": "mais je croyais que",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "sur",
+   "children": [
+    {
+     "name": "le",
+     "children": [
+      {
+       "name": "point",
+       "children": [
+        {
+         "name": "sur le point de",
+         "value": 4
+        }
+       ]
+      },
+      {
+       "name": "visage",
+       "children": [
+        {
+         "name": "sur le visage de",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "un",
+     "children": [
+      {
+       "name": "ton",
+       "children": [
+        {
+         "name": "sur un ton de",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "qu",
+   "children": [
+    {
+     "name": "est",
+     "children": [
+      {
+       "name": "ce",
+       "children": [
+        {
+         "name": "qu est ce que",
+         "value": 22
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "elle",
+     "children": [
+      {
+       "name": "lui",
+       "children": [
+        {
+         "name": "qu elle lui avait",
+         "value": 12
+        }
+       ]
+      },
+      {
+       "name": "pouvait",
+       "children": [
+        {
+         "name": "qu elle pouvait avoir",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "avait",
+       "children": [
+        {
+         "name": "qu elle avait pas",
+         "value": 6
+        },
+        {
+         "name": "qu elle avait fait",
+         "value": 5
+        },
+        {
+         "name": "qu elle avait \u00e9t\u00e9",
+         "value": 4
+        },
+        {
+         "name": "qu elle avait de",
+         "value": 4
+        },
+        {
+         "name": "qu elle avait pour",
+         "value": 3
+        },
+        {
+         "name": "qu elle avait en",
+         "value": 3
+        },
+        {
+         "name": "qu elle avait des",
+         "value": 3
+        },
+        {
+         "name": "qu elle avait eus",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "ne",
+       "children": [
+        {
+         "name": "qu elle ne lui",
+         "value": 5
+        },
+        {
+         "name": "qu elle ne connaissait",
+         "value": 4
+        },
+        {
+         "name": "qu elle ne pouvait",
+         "value": 4
+        },
+        {
+         "name": "qu elle ne voulait",
+         "value": 4
+        },
+        {
+         "name": "qu elle ne le",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "\u00e9tait",
+       "children": [
+        {
+         "name": "qu elle \u00e9tait pas",
+         "value": 5
+        },
+        {
+         "name": "qu elle \u00e9tait en",
+         "value": 3
+        },
+        {
+         "name": "qu elle \u00e9tait une",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "il",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "qu il de plus",
+         "value": 8
+        }
+       ]
+      },
+      {
+       "name": "venait",
+       "children": [
+        {
+         "name": "qu il venait de",
+         "value": 5
+        }
+       ]
+      },
+      {
+       "name": "le",
+       "children": [
+        {
+         "name": "qu il le savait",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "e\u00fbt",
+       "children": [
+        {
+         "name": "qu il e\u00fbt \u00e9t\u00e9",
+         "value": 4
+        },
+        {
+         "name": "qu il e\u00fbt pu",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "en",
+       "children": [
+        {
+         "name": "qu il en avait",
+         "value": 6
+        },
+        {
+         "name": "qu il en \u00e9tait",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "dans",
+       "children": [
+        {
+         "name": "qu il dans la",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "avait",
+       "children": [
+        {
+         "name": "qu il avait pas",
+         "value": 11
+        },
+        {
+         "name": "qu il avait fait",
+         "value": 6
+        },
+        {
+         "name": "qu il avait de",
+         "value": 4
+        },
+        {
+         "name": "qu il avait dans",
+         "value": 4
+        },
+        {
+         "name": "qu il avait cru",
+         "value": 4
+        },
+        {
+         "name": "qu il avait des",
+         "value": 4
+        },
+        {
+         "name": "qu il avait pour",
+         "value": 4
+        },
+        {
+         "name": "qu il avait eue",
+         "value": 4
+        },
+        {
+         "name": "qu il avait \u00e9t\u00e9",
+         "value": 3
+        },
+        {
+         "name": "qu il avait vu",
+         "value": 3
+        },
+        {
+         "name": "qu il avait pu",
+         "value": 3
+        },
+        {
+         "name": "qu il avait perdu",
+         "value": 3
+        },
+        {
+         "name": "qu il avait oubli\u00e9",
+         "value": 3
+        },
+        {
+         "name": "qu il avait lui",
+         "value": 3
+        },
+        {
+         "name": "qu il avait jamais",
+         "value": 3
+        },
+        {
+         "name": "qu il avait du",
+         "value": 3
+        },
+        {
+         "name": "qu il avait appris",
+         "value": 3
+        },
+        {
+         "name": "qu il avait air",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "appelait",
+       "children": [
+        {
+         "name": "qu il appelait un",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "ne",
+       "children": [
+        {
+         "name": "qu il ne pouvait",
+         "value": 14
+        },
+        {
+         "name": "qu il ne se",
+         "value": 6
+        },
+        {
+         "name": "qu il ne pourrait",
+         "value": 4
+        },
+        {
+         "name": "qu il ne le",
+         "value": 3
+        },
+        {
+         "name": "qu il ne connaissait",
+         "value": 3
+        },
+        {
+         "name": "qu il ne lui",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "\u00e9tait",
+       "children": [
+        {
+         "name": "qu il \u00e9tait venu",
+         "value": 3
+        },
+        {
+         "name": "qu il \u00e9tait en",
+         "value": 3
+        },
+        {
+         "name": "qu il \u00e9tait le",
+         "value": 3
+        },
+        {
+         "name": "qu il \u00e9tait plus",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "un",
+     "children": [
+      {
+       "name": "peu",
+       "children": [
+        {
+         "name": "qu un peu plus",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "on",
+     "children": [
+      {
+       "name": "appelle",
+       "children": [
+        {
+         "name": "qu on appelle un",
+         "value": 4
+        }
+       ]
+      },
+      {
+       "name": "ne",
+       "children": [
+        {
+         "name": "qu on ne peut",
+         "value": 7
+        },
+        {
+         "name": "qu on ne connaissait",
+         "value": 4
+        },
+        {
+         "name": "qu on ne pouvait",
+         "value": 3
+        },
+        {
+         "name": "qu on ne pourrait",
+         "value": 3
+        },
+        {
+         "name": "qu on ne conna\u00eet",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "odette",
+     "children": [
+      {
+       "name": "lui",
+       "children": [
+        {
+         "name": "qu odette lui avait",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "autour",
+   "children": [
+    {
+     "name": "de",
+     "children": [
+      {
+       "name": "la",
+       "children": [
+        {
+         "name": "autour de la table",
+         "value": 4
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "mme",
+   "children": [
+    {
+     "name": "de",
+     "children": [
+      {
+       "name": "saint",
+       "children": [
+        {
+         "name": "mme de saint euverte",
+         "value": 15
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "avec",
+   "children": [
+    {
+     "name": "une",
+     "children": [
+      {
+       "name": "sorte",
+       "children": [
+        {
+         "name": "avec une sorte de",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "un",
+     "children": [
+      {
+       "name": "sourire",
+       "children": [
+        {
+         "name": "avec un sourire qui",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "qui",
+     "children": [
+      {
+       "name": "il",
+       "children": [
+        {
+         "name": "avec qui il avait",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "mon",
+     "children": [
+      {
+       "name": "grand",
+       "children": [
+        {
+         "name": "avec mon grand p\u00e8re",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "plaisir",
+   "children": [
+    {
+     "name": "qu",
+     "children": [
+      {
+       "name": "il",
+       "children": [
+        {
+         "name": "plaisir qu il avait",
+         "value": 4
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "celle",
+   "children": [
+    {
+     "name": "ci",
+     "children": [
+      {
+       "name": "lui",
+       "children": [
+        {
+         "name": "celle ci lui avait",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "pour",
+   "children": [
+    {
+     "name": "la",
+     "children": [
+      {
+       "name": "premi\u00e8re",
+       "children": [
+        {
+         "name": "pour la premi\u00e8re fois",
+         "value": 15
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "ne",
+     "children": [
+      {
+       "name": "pas",
+       "children": [
+        {
+         "name": "pour ne pas avoir",
+         "value": 8
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "elle",
+     "children": [
+      {
+       "name": "qu",
+       "children": [
+        {
+         "name": "pour elle qu il",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "voir",
+     "children": [
+      {
+       "name": "il",
+       "children": [
+        {
+         "name": "pour voir il ne",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "non",
+   "children": [
+    {
+     "name": "ce",
+     "children": [
+      {
+       "name": "est",
+       "children": [
+        {
+         "name": "non ce est pas",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "monter",
+   "children": [
+    {
+     "name": "dans",
+     "children": [
+      {
+       "name": "ma",
+       "children": [
+        {
+         "name": "monter dans ma chambre",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "\u00e9t\u00e9",
+   "children": [
+    {
+     "name": "pr\u00eate",
+     "children": [
+      {
+       "name": "que",
+       "children": [
+        {
+         "name": "\u00e9t\u00e9 pr\u00eate que mon",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "sa",
+   "children": [
+    {
+     "name": "figure",
+     "children": [
+      {
+       "name": "dans",
+       "children": [
+        {
+         "name": "sa figure dans ses",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "la",
+   "children": [
+    {
+     "name": "fille",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "la fille de cuisine",
+         "value": 10
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "duchesse",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "la duchesse de guermantes",
+         "value": 6
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "sonate",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "la sonate de vinteuil",
+         "value": 5
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "mort",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "la mort de sa",
+         "value": 4
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "fin",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "la fin de la",
+         "value": 4
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "terre",
+     "children": [
+      {
+       "name": "et",
+       "children": [
+        {
+         "name": "la terre et les",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "tante",
+     "children": [
+      {
+       "name": "du",
+       "children": [
+        {
+         "name": "la tante du pianiste",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "rue",
+     "children": [
+      {
+       "name": "des",
+       "children": [
+        {
+         "name": "la rue des perchamps",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "princesse",
+     "children": [
+      {
+       "name": "des",
+       "children": [
+        {
+         "name": "la princesse des laumes",
+         "value": 12
+        }
+       ]
+      },
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "la princesse de parme",
+         "value": 3
+        },
+        {
+         "name": "la princesse de l\u00e9on",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "premi\u00e8re",
+     "children": [
+      {
+       "name": "fois",
+       "children": [
+        {
+         "name": "la premi\u00e8re fois qu",
+         "value": 4
+        },
+        {
+         "name": "la premi\u00e8re fois il",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "phrase",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "la phrase de la",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "petite",
+     "children": [
+      {
+       "name": "porte",
+       "children": [
+        {
+         "name": "la petite porte du",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "phrase",
+       "children": [
+        {
+         "name": "la petite phrase de",
+         "value": 4
+        },
+        {
+         "name": "la petite phrase est",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "garde",
+     "children": [
+      {
+       "name": "la",
+       "children": [
+        {
+         "name": "la garde la garde",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "dame",
+     "children": [
+      {
+       "name": "en",
+       "children": [
+        {
+         "name": "la dame en rose",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "ces",
+   "children": [
+    {
+     "name": "mots",
+     "children": [
+      {
+       "name": "qu",
+       "children": [
+        {
+         "name": "ces mots qu elle",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "moment",
+   "children": [
+    {
+     "name": "o\u00f9",
+     "children": [
+      {
+       "name": "il",
+       "children": [
+        {
+         "name": "moment o\u00f9 il faudrait",
+         "value": 3
+        },
+        {
+         "name": "moment o\u00f9 il allait",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "un",
+   "children": [
+    {
+     "name": "de",
+     "children": [
+      {
+       "name": "ses",
+       "children": [
+        {
+         "name": "un de ses amis",
+         "value": 5
+        }
+       ]
+      },
+      {
+       "name": "ces",
+       "children": [
+        {
+         "name": "un de ces jours",
+         "value": 4
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "rayon",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "un rayon de soleil",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "peu",
+     "children": [
+      {
+       "name": "plus",
+       "children": [
+        {
+         "name": "un peu plus tard",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "un peu de la",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "jour",
+     "children": [
+      {
+       "name": "qu",
+       "children": [
+        {
+         "name": "un jour qu il",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "p\u00e8re",
+   "children": [
+    {
+     "name": "et",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "p\u00e8re et de mon",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "ou",
+   "children": [
+    {
+     "name": "parce",
+     "children": [
+      {
+       "name": "qu",
+       "children": [
+        {
+         "name": "ou parce qu elle",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "depuis",
+   "children": [
+    {
+     "name": "qu",
+     "children": [
+      {
+       "name": "il",
+       "children": [
+        {
+         "name": "depuis qu il avait",
+         "value": 4
+        },
+        {
+         "name": "depuis qu il \u00e9tait",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "s\u0153urs",
+   "children": [
+    {
+     "name": "de",
+     "children": [
+      {
+       "name": "ma",
+       "children": [
+        {
+         "name": "s\u0153urs de ma grand",
+         "value": 11
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "rare",
+   "children": [
+    {
+     "name": "qu",
+     "children": [
+      {
+       "name": "il",
+       "children": [
+        {
+         "name": "rare qu il ne",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "eu",
+   "children": [
+    {
+     "name": "le",
+     "children": [
+      {
+       "name": "temps",
+       "children": [
+        {
+         "name": "eu le temps de",
+         "value": 4
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "odette",
+   "children": [
+    {
+     "name": "qu",
+     "children": [
+      {
+       "name": "il",
+       "children": [
+        {
+         "name": "odette qu il avait",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "chez",
+     "children": [
+      {
+       "name": "les",
+       "children": [
+        {
+         "name": "odette chez les verdurin",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "cours",
+   "children": [
+    {
+     "name": "de",
+     "children": [
+      {
+       "name": "la",
+       "children": [
+        {
+         "name": "cours de la vivonne",
+         "value": 4
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "rue",
+   "children": [
+    {
+     "name": "du",
+     "children": [
+      {
+       "name": "saint",
+       "children": [
+        {
+         "name": "rue du saint esprit",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "clocher",
+   "children": [
+    {
+     "name": "de",
+     "children": [
+      {
+       "name": "saint",
+       "children": [
+        {
+         "name": "clocher de saint hilaire",
+         "value": 5
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "jusqu",
+   "children": [
+    {
+     "name": "au",
+     "children": [
+      {
+       "name": "moment",
+       "children": [
+        {
+         "name": "jusqu au moment o\u00f9",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "ciel",
+   "children": [
+    {
+     "name": "au",
+     "children": [
+      {
+       "name": "dessus",
+       "children": [
+        {
+         "name": "ciel au dessus de",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "chaque",
+   "children": [
+    {
+     "name": "fois",
+     "children": [
+      {
+       "name": "qu",
+       "children": [
+        {
+         "name": "chaque fois qu elle",
+         "value": 7
+        },
+        {
+         "name": "chaque fois qu il",
+         "value": 5
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "sans",
+   "children": [
+    {
+     "name": "qu",
+     "children": [
+      {
+       "name": "il",
+       "children": [
+        {
+         "name": "sans qu il en",
+         "value": 5
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "avoir",
+     "children": [
+      {
+       "name": "air",
+       "children": [
+        {
+         "name": "sans avoir air de",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "deux",
+   "children": [
+    {
+     "name": "ou",
+     "children": [
+      {
+       "name": "trois",
+       "children": [
+        {
+         "name": "deux ou trois fois",
+         "value": 7
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "se",
+   "children": [
+    {
+     "name": "dire",
+     "children": [
+      {
+       "name": "qu",
+       "children": [
+        {
+         "name": "se dire qu il",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "disait",
+   "children": [
+    {
+     "name": "ma",
+     "children": [
+      {
+       "name": "tante",
+       "children": [
+        {
+         "name": "disait ma tante en",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "son",
+   "children": [
+    {
+     "name": "valet",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "son valet de chambre",
+         "value": 5
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "les",
+   "children": [
+    {
+     "name": "s\u0153urs",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "les s\u0153urs de ma",
+         "value": 6
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "choses",
+     "children": [
+      {
+       "name": "qu",
+       "children": [
+        {
+         "name": "les choses qu il",
+         "value": 4
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "unes",
+     "children": [
+      {
+       "name": "des",
+       "children": [
+        {
+         "name": "les unes des autres",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "larmes",
+     "children": [
+      {
+       "name": "aux",
+       "children": [
+        {
+         "name": "les larmes aux yeux",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "gens",
+     "children": [
+      {
+       "name": "du",
+       "children": [
+        {
+         "name": "les gens du monde",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "forces",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "les forces de ma",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "bois",
+     "children": [
+      {
+       "name": "sont",
+       "children": [
+        {
+         "name": "les bois sont d\u00e9j\u00e0",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "savait",
+   "children": [
+    {
+     "name": "qu",
+     "children": [
+      {
+       "name": "il",
+       "children": [
+        {
+         "name": "savait qu il ne",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "point",
+   "children": [
+    {
+     "name": "de",
+     "children": [
+      {
+       "name": "vue",
+       "children": [
+        {
+         "name": "point de vue de",
+         "value": 4
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "alors",
+   "children": [
+    {
+     "name": "tout",
+     "children": [
+      {
+       "name": "un",
+       "children": [
+        {
+         "name": "alors tout un coup",
+         "value": 4
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "fur",
+   "children": [
+    {
+     "name": "et",
+     "children": [
+      {
+       "name": "mesure",
+       "children": [
+        {
+         "name": "fur et mesure que",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "pr\u00e9sident",
+   "children": [
+    {
+     "name": "de",
+     "children": [
+      {
+       "name": "la",
+       "children": [
+        {
+         "name": "pr\u00e9sident de la r\u00e9publique",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "milieu",
+   "children": [
+    {
+     "name": "de",
+     "children": [
+      {
+       "name": "la",
+       "children": [
+        {
+         "name": "milieu de la nuit",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "ce",
+   "children": [
+    {
+     "name": "\u00e9tait",
+     "children": [
+      {
+       "name": "pas",
+       "children": [
+        {
+         "name": "ce \u00e9tait pas seulement",
+         "value": 4
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "est",
+     "children": [
+      {
+       "name": "pas",
+       "children": [
+        {
+         "name": "ce est pas un",
+         "value": 7
+        },
+        {
+         "name": "ce est pas que",
+         "value": 4
+        },
+        {
+         "name": "ce est pas comme",
+         "value": 4
+        },
+        {
+         "name": "ce est pas de",
+         "value": 3
+        },
+        {
+         "name": "ce est pas du",
+         "value": 3
+        },
+        {
+         "name": "ce est pas le",
+         "value": 3
+        },
+        {
+         "name": "ce est pas pour",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "sont",
+     "children": [
+      {
+       "name": "des",
+       "children": [
+        {
+         "name": "ce sont des gens",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "que",
+     "children": [
+      {
+       "name": "vous",
+       "children": [
+        {
+         "name": "ce que vous avez",
+         "value": 8
+        }
+       ]
+      },
+      {
+       "name": "est",
+       "children": [
+        {
+         "name": "ce que est que",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "cela",
+       "children": [
+        {
+         "name": "ce que cela peut",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "qu",
+     "children": [
+      {
+       "name": "on",
+       "children": [
+        {
+         "name": "ce qu on appelle",
+         "value": 4
+        },
+        {
+         "name": "ce qu on peut",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "odette",
+       "children": [
+        {
+         "name": "ce qu odette avait",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "il",
+       "children": [
+        {
+         "name": "ce qu il avait",
+         "value": 14
+        },
+        {
+         "name": "ce qu il de",
+         "value": 8
+        },
+        {
+         "name": "ce qu il fallait",
+         "value": 4
+        },
+        {
+         "name": "ce qu il appelait",
+         "value": 4
+        },
+        {
+         "name": "ce qu il lui",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "elle",
+       "children": [
+        {
+         "name": "ce qu elle avait",
+         "value": 6
+        },
+        {
+         "name": "ce qu elle faisait",
+         "value": 4
+        },
+        {
+         "name": "ce qu elle lui",
+         "value": 3
+        },
+        {
+         "name": "ce qu elle appelait",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "point",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "ce point de vue",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "nom",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "ce nom de gilberte",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "mon",
+   "children": [
+    {
+     "name": "grand",
+     "children": [
+      {
+       "name": "p\u00e8re",
+       "children": [
+        {
+         "name": "mon grand p\u00e8re et",
+         "value": 4
+        },
+        {
+         "name": "mon grand p\u00e8re \u00e9tait",
+         "value": 3
+        },
+        {
+         "name": "mon grand p\u00e8re en",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "cela",
+   "children": [
+    {
+     "name": "ne",
+     "children": [
+      {
+       "name": "fait",
+       "children": [
+        {
+         "name": "cela ne fait rien",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "raison",
+   "children": [
+    {
+     "name": "pour",
+     "children": [
+      {
+       "name": "laquelle",
+       "children": [
+        {
+         "name": "raison pour laquelle elle",
+         "value": 4
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "et",
+   "children": [
+    {
+     "name": "ma",
+     "children": [
+      {
+       "name": "grand",
+       "children": [
+        {
+         "name": "et ma grand m\u00e8re",
+         "value": 5
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "qui",
+     "children": [
+      {
+       "name": "ne",
+       "children": [
+        {
+         "name": "et qui ne se",
+         "value": 4
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "tout",
+     "children": [
+      {
+       "name": "un",
+       "children": [
+        {
+         "name": "et tout un coup",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "tandis",
+     "children": [
+      {
+       "name": "qu",
+       "children": [
+        {
+         "name": "et tandis qu il",
+         "value": 3
+        },
+        {
+         "name": "et tandis qu elle",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "que",
+     "children": [
+      {
+       "name": "je",
+       "children": [
+        {
+         "name": "et que je ne",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "qu",
+     "children": [
+      {
+       "name": "elle",
+       "children": [
+        {
+         "name": "et qu elle avait",
+         "value": 4
+        }
+       ]
+      },
+      {
+       "name": "il",
+       "children": [
+        {
+         "name": "et qu il avait",
+         "value": 7
+        },
+        {
+         "name": "et qu il \u00e9tait",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "mon",
+     "children": [
+      {
+       "name": "grand",
+       "children": [
+        {
+         "name": "et mon grand p\u00e8re",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "dont",
+     "children": [
+      {
+       "name": "il",
+       "children": [
+        {
+         "name": "et dont il avait",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "de",
+     "children": [
+      {
+       "name": "ne",
+       "children": [
+        {
+         "name": "et de ne plus",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "all\u00e9s",
+   "children": [
+    {
+     "name": "du",
+     "children": [
+      {
+       "name": "c\u00f4t\u00e9",
+       "children": [
+        {
+         "name": "all\u00e9s du c\u00f4t\u00e9 de",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "mort",
+   "children": [
+    {
+     "name": "de",
+     "children": [
+      {
+       "name": "sa",
+       "children": [
+        {
+         "name": "mort de sa femme",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "si",
+   "children": [
+    {
+     "name": "vous",
+     "children": [
+      {
+       "name": "voulez",
+       "children": [
+        {
+         "name": "si vous voulez mais",
+         "value": 4
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "elle",
+     "children": [
+      {
+       "name": "avait",
+       "children": [
+        {
+         "name": "si elle avait \u00e9t\u00e9",
+         "value": 5
+        },
+        {
+         "name": "si elle avait pu",
+         "value": 3
+        },
+        {
+         "name": "si elle avait pas",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "avait",
+     "children": [
+      {
+       "name": "\u00e9t\u00e9",
+       "children": [
+        {
+         "name": "si avait \u00e9t\u00e9 un",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "soir\u00e9e",
+   "children": [
+    {
+     "name": "de",
+     "children": [
+      {
+       "name": "mme",
+       "children": [
+        {
+         "name": "soir\u00e9e de mme de",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "o\u00f9",
+   "children": [
+    {
+     "name": "elle",
+     "children": [
+      {
+       "name": "voulait",
+       "children": [
+        {
+         "name": "o\u00f9 elle voulait en",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "il",
+     "children": [
+      {
+       "name": "se",
+       "children": [
+        {
+         "name": "o\u00f9 il se trouvait",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "sais",
+   "children": [
+    {
+     "name": "pas",
+     "children": [
+      {
+       "name": "si",
+       "children": [
+        {
+         "name": "sais pas si vous",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "ma",
+   "children": [
+    {
+     "name": "grand",
+     "children": [
+      {
+       "name": "m\u00e8re",
+       "children": [
+        {
+         "name": "ma grand m\u00e8re et",
+         "value": 6
+        },
+        {
+         "name": "ma grand m\u00e8re qui",
+         "value": 4
+        },
+        {
+         "name": "ma grand m\u00e8re \u00e9tait",
+         "value": 4
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "main",
+     "children": [
+      {
+       "name": "tremble",
+       "children": [
+        {
+         "name": "ma main tremble si",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "tante",
+     "children": [
+      {
+       "name": "l\u00e9onie",
+       "children": [
+        {
+         "name": "ma tante l\u00e9onie qui",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "qu",
+       "children": [
+        {
+         "name": "ma tante qu elle",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "je",
+   "children": [
+    {
+     "name": "sentais",
+     "children": [
+      {
+       "name": "que",
+       "children": [
+        {
+         "name": "je sentais que je",
+         "value": 4
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "suis",
+     "children": [
+      {
+       "name": "s\u00fbre",
+       "children": [
+        {
+         "name": "je suis s\u00fbre que",
+         "value": 4
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "vous",
+     "children": [
+      {
+       "name": "dis",
+       "children": [
+        {
+         "name": "je vous dis que",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "sais",
+     "children": [
+      {
+       "name": "qu",
+       "children": [
+        {
+         "name": "je sais qu il",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "ne",
+     "children": [
+      {
+       "name": "sais",
+       "children": [
+        {
+         "name": "je ne sais pas",
+         "value": 15
+        }
+       ]
+      },
+      {
+       "name": "suis",
+       "children": [
+        {
+         "name": "je ne suis pas",
+         "value": 8
+        }
+       ]
+      },
+      {
+       "name": "savais",
+       "children": [
+        {
+         "name": "je ne savais pas",
+         "value": 6
+        }
+       ]
+      },
+      {
+       "name": "crois",
+       "children": [
+        {
+         "name": "je ne crois pas",
+         "value": 5
+        }
+       ]
+      },
+      {
+       "name": "connais",
+       "children": [
+        {
+         "name": "je ne connais pas",
+         "value": 5
+        }
+       ]
+      },
+      {
+       "name": "vous",
+       "children": [
+        {
+         "name": "je ne vous dis",
+         "value": 4
+        }
+       ]
+      },
+      {
+       "name": "veux",
+       "children": [
+        {
+         "name": "je ne veux pas",
+         "value": 4
+        }
+       ]
+      },
+      {
+       "name": "voyais",
+       "children": [
+        {
+         "name": "je ne voyais que",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "pus",
+       "children": [
+        {
+         "name": "je ne pus plus",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "peux",
+       "children": [
+        {
+         "name": "je ne peux pas",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "lui",
+     "children": [
+      {
+       "name": "ai",
+       "children": [
+        {
+         "name": "je lui ai dit",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "crois",
+     "children": [
+      {
+       "name": "que",
+       "children": [
+        {
+         "name": "je crois que vous",
+         "value": 3
+        },
+        {
+         "name": "je crois que ai",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "m\u00e8re",
+   "children": [
+    {
+     "name": "et",
+     "children": [
+      {
+       "name": "ma",
+       "children": [
+        {
+         "name": "m\u00e8re et ma grand",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "aller",
+   "children": [
+    {
+     "name": "dans",
+     "children": [
+      {
+       "name": "le",
+       "children": [
+        {
+         "name": "aller dans le monde",
+         "value": 4
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "du",
+     "children": [
+      {
+       "name": "c\u00f4t\u00e9",
+       "children": [
+        {
+         "name": "aller du c\u00f4t\u00e9 de",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "chez",
+     "children": [
+      {
+       "name": "les",
+       "children": [
+        {
+         "name": "aller chez les verdurin",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "faire",
+   "children": [
+    {
+     "name": "la",
+     "children": [
+      {
+       "name": "connaissance",
+       "children": [
+        {
+         "name": "faire la connaissance de",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "nous",
+   "children": [
+    {
+     "name": "ne",
+     "children": [
+      {
+       "name": "sommes",
+       "children": [
+        {
+         "name": "nous ne sommes pas",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "dans",
+   "children": [
+    {
+     "name": "ma",
+     "children": [
+      {
+       "name": "chambre",
+       "children": [
+        {
+         "name": "dans ma chambre et",
+         "value": 5
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "ce",
+     "children": [
+      {
+       "name": "temps",
+       "children": [
+        {
+         "name": "dans ce temps l\u00e0",
+         "value": 4
+        }
+       ]
+      },
+      {
+       "name": "qu",
+       "children": [
+        {
+         "name": "dans ce qu il",
+         "value": 4
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "une",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "dans une de ces",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "les",
+     "children": [
+      {
+       "name": "bras",
+       "children": [
+        {
+         "name": "dans les bras de",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "le",
+     "children": [
+      {
+       "name": "nom",
+       "children": [
+        {
+         "name": "dans le nom de",
+         "value": 6
+        }
+       ]
+      },
+      {
+       "name": "cabinet",
+       "children": [
+        {
+         "name": "dans le cabinet de",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "la",
+     "children": [
+      {
+       "name": "salle",
+       "children": [
+        {
+         "name": "dans la salle manger",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "mesure",
+       "children": [
+        {
+         "name": "dans la mesure o\u00f9",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "chambre",
+       "children": [
+        {
+         "name": "dans la chambre voisine",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "esprit",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "dans esprit de qui",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "all\u00e9e",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "dans all\u00e9e de la",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "chez",
+   "children": [
+    {
+     "name": "mme",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "chez mme de saint",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "les",
+     "children": [
+      {
+       "name": "verdurin",
+       "children": [
+        {
+         "name": "chez les verdurin ou",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "la",
+     "children": [
+      {
+       "name": "princesse",
+       "children": [
+        {
+         "name": "chez la princesse des",
+         "value": 3
+        },
+        {
+         "name": "chez la princesse de",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "par",
+   "children": [
+    {
+     "name": "tous",
+     "children": [
+      {
+       "name": "les",
+       "children": [
+        {
+         "name": "par tous les temps",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "une",
+     "children": [
+      {
+       "name": "sorte",
+       "children": [
+        {
+         "name": "par une sorte de",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "elle",
+   "children": [
+    {
+     "name": "lui",
+     "children": [
+      {
+       "name": "avait",
+       "children": [
+        {
+         "name": "elle lui avait dit",
+         "value": 7
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "voulait",
+     "children": [
+      {
+       "name": "en",
+       "children": [
+        {
+         "name": "elle voulait en venir",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "ne",
+     "children": [
+      {
+       "name": "voulait",
+       "children": [
+        {
+         "name": "elle ne voulait pas",
+         "value": 6
+        }
+       ]
+      },
+      {
+       "name": "lui",
+       "children": [
+        {
+         "name": "elle ne lui avait",
+         "value": 5
+        }
+       ]
+      },
+      {
+       "name": "connaissait",
+       "children": [
+        {
+         "name": "elle ne connaissait pas",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "avait",
+     "children": [
+      {
+       "name": "envie",
+       "children": [
+        {
+         "name": "elle avait envie de",
+         "value": 4
+        }
+       ]
+      },
+      {
+       "name": "pas",
+       "children": [
+        {
+         "name": "elle avait pas eu",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "fait",
+       "children": [
+        {
+         "name": "elle avait fait de",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "air",
+   "children": [
+    {
+     "name": "de",
+     "children": [
+      {
+       "name": "ne",
+       "children": [
+        {
+         "name": "air de ne pas",
+         "value": 4
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "avait",
+   "children": [
+    {
+     "name": "dit",
+     "children": [
+      {
+       "name": "que",
+       "children": [
+        {
+         "name": "avait dit que les",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "pas",
+     "children": [
+      {
+       "name": "besoin",
+       "children": [
+        {
+         "name": "avait pas besoin de",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "quelque",
+   "children": [
+    {
+     "name": "chose",
+     "children": [
+      {
+       "name": "qu",
+       "children": [
+        {
+         "name": "quelque chose qu elle",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "quelque chose de plus",
+         "value": 10
+        },
+        {
+         "name": "quelque chose de si",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "lui",
+   "children": [
+    {
+     "name": "et",
+     "children": [
+      {
+       "name": "qu",
+       "children": [
+        {
+         "name": "lui et qu il",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "chose",
+   "children": [
+    {
+     "name": "qu",
+     "children": [
+      {
+       "name": "elle",
+       "children": [
+        {
+         "name": "chose qu elle avait",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "tout",
+   "children": [
+    {
+     "name": "le",
+     "children": [
+      {
+       "name": "monde",
+       "children": [
+        {
+         "name": "tout le monde et",
+         "value": 5
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "de",
+     "children": [
+      {
+       "name": "suite",
+       "children": [
+        {
+         "name": "tout de suite que",
+         "value": 4
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "un",
+     "children": [
+      {
+       "name": "coup",
+       "children": [
+        {
+         "name": "tout un coup il",
+         "value": 4
+        },
+        {
+         "name": "tout un coup je",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "ce",
+     "children": [
+      {
+       "name": "qu",
+       "children": [
+        {
+         "name": "tout ce qu il",
+         "value": 13
+        },
+        {
+         "name": "tout ce qu elle",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "qui",
+       "children": [
+        {
+         "name": "tout ce qui \u00e9tait",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "que",
+       "children": [
+        {
+         "name": "tout ce que vous",
+         "value": 3
+        },
+        {
+         "name": "tout ce que je",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "il",
+   "children": [
+    {
+     "name": "\u00e9tait",
+     "children": [
+      {
+       "name": "oblig\u00e9",
+       "children": [
+        {
+         "name": "il \u00e9tait oblig\u00e9 de",
+         "value": 5
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "en",
+     "children": [
+      {
+       "name": "avait",
+       "children": [
+        {
+         "name": "il en avait pas",
+         "value": 5
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "est",
+     "children": [
+      {
+       "name": "vrai",
+       "children": [
+        {
+         "name": "il est vrai que",
+         "value": 4
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "se",
+     "children": [
+      {
+       "name": "contenta",
+       "children": [
+        {
+         "name": "il se contenta de",
+         "value": 4
+        }
+       ]
+      },
+      {
+       "name": "disait",
+       "children": [
+        {
+         "name": "il se disait que",
+         "value": 4
+        },
+        {
+         "name": "il se disait qu",
+         "value": 4
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "me",
+     "children": [
+      {
+       "name": "semblait",
+       "children": [
+        {
+         "name": "il me semblait que",
+         "value": 10
+        },
+        {
+         "name": "il me semblait qu",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "lui",
+     "children": [
+      {
+       "name": "semblait",
+       "children": [
+        {
+         "name": "il lui semblait qu",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "faut",
+     "children": [
+      {
+       "name": "que",
+       "children": [
+        {
+         "name": "il faut que je",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "avait",
+     "children": [
+      {
+       "name": "cess\u00e9",
+       "children": [
+        {
+         "name": "il avait cess\u00e9 de",
+         "value": 4
+        }
+       ]
+      },
+      {
+       "name": "plus",
+       "children": [
+        {
+         "name": "il avait plus qu",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "pas",
+       "children": [
+        {
+         "name": "il avait pas de",
+         "value": 5
+        },
+        {
+         "name": "il avait pas le",
+         "value": 4
+        },
+        {
+         "name": "il avait pas besoin",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "jamais",
+       "children": [
+        {
+         "name": "il avait jamais eu",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "du",
+       "children": [
+        {
+         "name": "il avait du monde",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "ne",
+     "children": [
+      {
+       "name": "pouvait",
+       "children": [
+        {
+         "name": "il ne pouvait pas",
+         "value": 9
+        }
+       ]
+      },
+      {
+       "name": "pourrait",
+       "children": [
+        {
+         "name": "il ne pourrait pas",
+         "value": 6
+        }
+       ]
+      },
+      {
+       "name": "connaissait",
+       "children": [
+        {
+         "name": "il ne connaissait pas",
+         "value": 4
+        }
+       ]
+      },
+      {
+       "name": "avait",
+       "children": [
+        {
+         "name": "il ne avait pas",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "se",
+       "children": [
+        {
+         "name": "il ne se sentait",
+         "value": 3
+        },
+        {
+         "name": "il ne se souciait",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "voulait",
+       "children": [
+        {
+         "name": "il ne voulait pas",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "peut",
+   "children": [
+    {
+     "name": "\u00eatre",
+     "children": [
+      {
+       "name": "un",
+       "children": [
+        {
+         "name": "peut \u00eatre un peu",
+         "value": 4
+        }
+       ]
+      },
+      {
+       "name": "parce",
+       "children": [
+        {
+         "name": "peut \u00eatre parce que",
+         "value": 5
+        },
+        {
+         "name": "peut \u00eatre parce qu",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "au",
+   "children": [
+    {
+     "name": "milieu",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "au milieu de la",
+         "value": 6
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "fur",
+     "children": [
+      {
+       "name": "et",
+       "children": [
+        {
+         "name": "au fur et mesure",
+         "value": 5
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "moment",
+     "children": [
+      {
+       "name": "o\u00f9",
+       "children": [
+        {
+         "name": "au moment o\u00f9 il",
+         "value": 10
+        },
+        {
+         "name": "au moment o\u00f9 je",
+         "value": 5
+        },
+        {
+         "name": "au moment o\u00f9 on",
+         "value": 4
+        },
+        {
+         "name": "au moment o\u00f9 elle",
+         "value": 4
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "clair",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "au clair de lune",
+         "value": 4
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "rez",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "au rez de chauss\u00e9e",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "fond",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "au fond de moi",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "dessus",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "au dessus de la",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "del\u00e0",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "au del\u00e0 de la",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "bout",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "au bout de quelques",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "bord",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "au bord de la",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "une",
+   "children": [
+    {
+     "name": "nuit",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "une nuit de cl\u00e9op\u00e2tre",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "heure",
+     "children": [
+      {
+       "name": "et",
+       "children": [
+        {
+         "name": "une heure et demie",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "fois",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "une fois de plus",
+         "value": 4
+        }
+       ]
+      },
+      {
+       "name": "pour",
+       "children": [
+        {
+         "name": "une fois pour toutes",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "chose",
+     "children": [
+      {
+       "name": "affreuse",
+       "children": [
+        {
+         "name": "une chose affreuse il",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "figure",
+   "children": [
+    {
+     "name": "dans",
+     "children": [
+      {
+       "name": "ses",
+       "children": [
+        {
+         "name": "figure dans ses mains",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "jour",
+   "children": [
+    {
+     "name": "o\u00f9",
+     "children": [
+      {
+       "name": "il",
+       "children": [
+        {
+         "name": "jour o\u00f9 il \u00e9tait",
+         "value": 3
+        },
+        {
+         "name": "jour o\u00f9 il avait",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "de",
+     "children": [
+      {
+       "name": "la",
+       "children": [
+        {
+         "name": "jour de la f\u00eate",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "du",
+   "children": [
+    {
+     "name": "c\u00f4t\u00e9",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "du c\u00f4t\u00e9 de guermantes",
+         "value": 11
+        },
+        {
+         "name": "du c\u00f4t\u00e9 de m\u00e9s\u00e9glise",
+         "value": 10
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "jour",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "du jour de an",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "pas",
+   "children": [
+    {
+     "name": "la",
+     "children": [
+      {
+       "name": "peine",
+       "children": [
+        {
+         "name": "pas la peine de",
+         "value": 5
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "avoir",
+     "children": [
+      {
+       "name": "air",
+       "children": [
+        {
+         "name": "pas avoir air de",
+         "value": 5
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "de",
+     "children": [
+      {
+       "name": "catleyas",
+       "children": [
+        {
+         "name": "pas de catleyas ce",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "plus",
+   "children": [
+    {
+     "name": "tard",
+     "children": [
+      {
+       "name": "quand",
+       "children": [
+        {
+         "name": "plus tard quand je",
+         "value": 4
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "que",
+   "children": [
+    {
+     "name": "chaque",
+     "children": [
+      {
+       "name": "fois",
+       "children": [
+        {
+         "name": "que chaque fois que",
+         "value": 4
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "\u00e9tait",
+     "children": [
+      {
+       "name": "peut",
+       "children": [
+        {
+         "name": "que \u00e9tait peut \u00eatre",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "son",
+     "children": [
+      {
+       "name": "valet",
+       "children": [
+        {
+         "name": "que son valet de",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "si",
+     "children": [
+      {
+       "name": "elle",
+       "children": [
+        {
+         "name": "que si elle avait",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "mon",
+     "children": [
+      {
+       "name": "grand",
+       "children": [
+        {
+         "name": "que mon grand p\u00e8re",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "cab",
+       "children": [
+        {
+         "name": "que mon cab est",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "ma",
+     "children": [
+      {
+       "name": "robe",
+       "children": [
+        {
+         "name": "que ma robe pas",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "grand",
+       "children": [
+        {
+         "name": "que ma grand m\u00e8re",
+         "value": 6
+        },
+        {
+         "name": "que ma grand tante",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "le",
+     "children": [
+      {
+       "name": "bon",
+       "children": [
+        {
+         "name": "que le bon dieu",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "la",
+     "children": [
+      {
+       "name": "princesse",
+       "children": [
+        {
+         "name": "que la princesse de",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "je",
+     "children": [
+      {
+       "name": "avais",
+       "children": [
+        {
+         "name": "que je avais pas",
+         "value": 8
+        }
+       ]
+      },
+      {
+       "name": "\u00e9tais",
+       "children": [
+        {
+         "name": "que je \u00e9tais pas",
+         "value": 4
+        }
+       ]
+      },
+      {
+       "name": "venais",
+       "children": [
+        {
+         "name": "que je venais de",
+         "value": 4
+        }
+       ]
+      },
+      {
+       "name": "ne",
+       "children": [
+        {
+         "name": "que je ne pouvais",
+         "value": 3
+        },
+        {
+         "name": "que je ne connais",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "lui",
+       "children": [
+        {
+         "name": "que je lui avais",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "ai",
+       "children": [
+        {
+         "name": "que je ai pas",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "est",
+     "children": [
+      {
+       "name": "un",
+       "children": [
+        {
+         "name": "que est un peu",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "ce",
+     "children": [
+      {
+       "name": "est",
+       "children": [
+        {
+         "name": "que ce est pas",
+         "value": 7
+        }
+       ]
+      },
+      {
+       "name": "qu",
+       "children": [
+        {
+         "name": "que ce qu il",
+         "value": 6
+        }
+       ]
+      },
+      {
+       "name": "\u00e9tait",
+       "children": [
+        {
+         "name": "que ce \u00e9tait pas",
+         "value": 5
+        }
+       ]
+      },
+      {
+       "name": "f\u00fbt",
+       "children": [
+        {
+         "name": "que ce f\u00fbt une",
+         "value": 4
+        }
+       ]
+      },
+      {
+       "name": "que",
+       "children": [
+        {
+         "name": "que ce que je",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "qui",
+   "children": [
+    {
+     "name": "ne",
+     "children": [
+      {
+       "name": "sont",
+       "children": [
+        {
+         "name": "qui ne sont pas",
+         "value": 6
+        }
+       ]
+      },
+      {
+       "name": "la",
+       "children": [
+        {
+         "name": "qui ne la connaissaient",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "avait",
+     "children": [
+      {
+       "name": "besoin",
+       "children": [
+        {
+         "name": "qui avait besoin de",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "air",
+       "children": [
+        {
+         "name": "qui avait air de",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "aux",
+   "children": [
+    {
+     "name": "champs",
+     "children": [
+      {
+       "name": "\u00e9lys\u00e9es",
+       "children": [
+        {
+         "name": "aux champs \u00e9lys\u00e9es et",
+         "value": 4
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "en",
+   "children": [
+    {
+     "name": "dehors",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "en dehors de la",
+         "value": 4
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "sortant",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "en sortant de table",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "m\u00eame",
+     "children": [
+      {
+       "name": "temps",
+       "children": [
+        {
+         "name": "en m\u00eame temps que",
+         "value": 6
+        },
+        {
+         "name": "en m\u00eame temps qu",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "ce",
+     "children": [
+      {
+       "name": "moment",
+       "children": [
+        {
+         "name": "en ce moment je",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "train",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "en train de faire",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "pr\u00e8s",
+   "children": [
+    {
+     "name": "du",
+     "children": [
+      {
+       "name": "pont",
+       "children": [
+        {
+         "name": "pr\u00e8s du pont vieux",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "de",
+   "children": [
+    {
+     "name": "mon",
+     "children": [
+      {
+       "name": "grand",
+       "children": [
+        {
+         "name": "de mon grand p\u00e8re",
+         "value": 9
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "mme",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "de mme de saint",
+         "value": 7
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "temps",
+     "children": [
+      {
+       "name": "en",
+       "children": [
+        {
+         "name": "de temps en temps",
+         "value": 4
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "saint",
+     "children": [
+      {
+       "name": "andr\u00e9",
+       "children": [
+        {
+         "name": "de saint andr\u00e9 des",
+         "value": 4
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "plus",
+     "children": [
+      {
+       "name": "en",
+       "children": [
+        {
+         "name": "de plus en plus",
+         "value": 4
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "genevi\u00e8ve",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "de genevi\u00e8ve de brabant",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "celle",
+     "children": [
+      {
+       "name": "qu",
+       "children": [
+        {
+         "name": "de celle qu il",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "ce",
+     "children": [
+      {
+       "name": "que",
+       "children": [
+        {
+         "name": "de ce que je",
+         "value": 5
+        }
+       ]
+      },
+      {
+       "name": "genre",
+       "children": [
+        {
+         "name": "de ce genre et",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "qu",
+       "children": [
+        {
+         "name": "de ce qu elle",
+         "value": 6
+        },
+        {
+         "name": "de ce qu on",
+         "value": 3
+        },
+        {
+         "name": "de ce qu ils",
+         "value": 3
+        },
+        {
+         "name": "de ce qu il",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "la",
+     "children": [
+      {
+       "name": "fille",
+       "children": [
+        {
+         "name": "de la fille de",
+         "value": 6
+        }
+       ]
+      },
+      {
+       "name": "part",
+       "children": [
+        {
+         "name": "de la part de",
+         "value": 5
+        }
+       ]
+      },
+      {
+       "name": "m\u00eame",
+       "children": [
+        {
+         "name": "de la m\u00eame fa\u00e7on",
+         "value": 4
+        }
+       ]
+      },
+      {
+       "name": "ma\u00eetresse",
+       "children": [
+        {
+         "name": "de la ma\u00eetresse de",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "maison",
+       "children": [
+        {
+         "name": "de la maison dor\u00e9e",
+         "value": 4
+        },
+        {
+         "name": "de la maison et",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "fa\u00e7on",
+       "children": [
+        {
+         "name": "de la fa\u00e7on la",
+         "value": 3
+        },
+        {
+         "name": "de la fa\u00e7on dont",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "mort",
+       "children": [
+        {
+         "name": "de la mort de",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "plus",
+       "children": [
+        {
+         "name": "de la plus haute",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "terre",
+       "children": [
+        {
+         "name": "de la terre et",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "vie",
+       "children": [
+        {
+         "name": "de la vie de",
+         "value": 11
+        },
+        {
+         "name": "de la vie odette",
+         "value": 9
+        },
+        {
+         "name": "de la vie et",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "viollet",
+     "children": [
+      {
+       "name": "le",
+       "children": [
+        {
+         "name": "de viollet le duc",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "tout",
+     "children": [
+      {
+       "name": "le",
+       "children": [
+        {
+         "name": "de tout le reste",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "ce",
+       "children": [
+        {
+         "name": "de tout ce qu",
+         "value": 5
+        },
+        {
+         "name": "de tout ce qui",
+         "value": 4
+        },
+        {
+         "name": "de tout ce que",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "roussainville",
+     "children": [
+      {
+       "name": "le",
+       "children": [
+        {
+         "name": "de roussainville le pin",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "ne",
+     "children": [
+      {
+       "name": "pas",
+       "children": [
+        {
+         "name": "de ne pas avoir",
+         "value": 8
+        },
+        {
+         "name": "de ne pas la",
+         "value": 6
+        },
+        {
+         "name": "de ne pas \u00eatre",
+         "value": 3
+        },
+        {
+         "name": "de ne pas manquer",
+         "value": 3
+        },
+        {
+         "name": "de ne pas laisser",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "ma",
+     "children": [
+      {
+       "name": "grand",
+       "children": [
+        {
+         "name": "de ma grand m\u00e8re",
+         "value": 21
+        }
+       ]
+      },
+      {
+       "name": "m\u00e8re",
+       "children": [
+        {
+         "name": "de ma m\u00e8re et",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "\u00e9tait",
+   "children": [
+    {
+     "name": "un",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "\u00e9tait un de ces",
+         "value": 4
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "pour",
+     "children": [
+      {
+       "name": "elle",
+       "children": [
+        {
+         "name": "\u00e9tait pour elle qu",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "peut",
+     "children": [
+      {
+       "name": "\u00eatre",
+       "children": [
+        {
+         "name": "\u00e9tait peut \u00eatre pas",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "en",
+     "children": [
+      {
+       "name": "train",
+       "children": [
+        {
+         "name": "\u00e9tait en train de",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "des",
+   "children": [
+    {
+     "name": "s\u0153urs",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "des s\u0153urs de ma",
+         "value": 5
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "gens",
+     "children": [
+      {
+       "name": "du",
+       "children": [
+        {
+         "name": "des gens du monde",
+         "value": 4
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "diff\u00e9rent",
+   "children": [
+    {
+     "name": "de",
+     "children": [
+      {
+       "name": "ce",
+       "children": [
+        {
+         "name": "diff\u00e9rent de ce qu",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "apr\u00e8s",
+   "children": [
+    {
+     "name": "la",
+     "children": [
+      {
+       "name": "mort",
+       "children": [
+        {
+         "name": "apr\u00e8s la mort de",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "clair",
+   "children": [
+    {
+     "name": "de",
+     "children": [
+      {
+       "name": "lune",
+       "children": [
+        {
+         "name": "clair de lune et",
+         "value": 4
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "parce",
+   "children": [
+    {
+     "name": "que",
+     "children": [
+      {
+       "name": "je",
+       "children": [
+        {
+         "name": "parce que je ne",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "qu",
+     "children": [
+      {
+       "name": "on",
+       "children": [
+        {
+         "name": "parce qu on ne",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "ils",
+       "children": [
+        {
+         "name": "parce qu ils avaient",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "il",
+       "children": [
+        {
+         "name": "parce qu il ne",
+         "value": 6
+        },
+        {
+         "name": "parce qu il \u00e9tait",
+         "value": 4
+        },
+        {
+         "name": "parce qu il avait",
+         "value": 4
+        },
+        {
+         "name": "parce qu il lui",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "elles",
+       "children": [
+        {
+         "name": "parce qu elles \u00e9taient",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "elle",
+       "children": [
+        {
+         "name": "parce qu elle \u00e9tait",
+         "value": 6
+        },
+        {
+         "name": "parce qu elle croyait",
+         "value": 4
+        },
+        {
+         "name": "parce qu elle est",
+         "value": 3
+        },
+        {
+         "name": "parce qu elle ne",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "saint",
+   "children": [
+    {
+     "name": "andr\u00e9",
+     "children": [
+      {
+       "name": "des",
+       "children": [
+        {
+         "name": "saint andr\u00e9 des champs",
+         "value": 7
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "bien",
+   "children": [
+    {
+     "name": "rare",
+     "children": [
+      {
+       "name": "qu",
+       "children": [
+        {
+         "name": "bien rare qu il",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "que",
+     "children": [
+      {
+       "name": "ce",
+       "children": [
+        {
+         "name": "bien que ce f\u00fbt",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "o\u00f9",
+     "children": [
+      {
+       "name": "elle",
+       "children": [
+        {
+         "name": "bien o\u00f9 elle voulait",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "est",
+   "children": [
+    {
+     "name": "ce",
+     "children": [
+      {
+       "name": "qu",
+       "children": [
+        {
+         "name": "est ce qu il",
+         "value": 6
+        },
+        {
+         "name": "est ce qu on",
+         "value": 4
+        }
+       ]
+      },
+      {
+       "name": "que",
+       "children": [
+        {
+         "name": "est ce que vous",
+         "value": 20
+        },
+        {
+         "name": "est ce que tu",
+         "value": 5
+        },
+        {
+         "name": "est ce que je",
+         "value": 4
+        },
+        {
+         "name": "est ce que cela",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "du",
+     "children": [
+      {
+       "name": "c\u00f4t\u00e9",
+       "children": [
+        {
+         "name": "est du c\u00f4t\u00e9 de",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "pas",
+     "children": [
+      {
+       "name": "de",
+       "children": [
+        {
+         "name": "est pas de la",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "tout",
+     "children": [
+      {
+       "name": "ce",
+       "children": [
+        {
+         "name": "est tout ce qu",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "tu",
+   "children": [
+    {
+     "name": "vois",
+     "children": [
+      {
+       "name": "bien",
+       "children": [
+        {
+         "name": "tu vois bien que",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "soir",
+   "children": [
+    {
+     "name": "o\u00f9",
+     "children": [
+      {
+       "name": "il",
+       "children": [
+        {
+         "name": "soir o\u00f9 il avait",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "amie",
+   "children": [
+    {
+     "name": "de",
+     "children": [
+      {
+       "name": "ma",
+       "children": [
+        {
+         "name": "amie de ma m\u00e8re",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "pr\u00eate",
+   "children": [
+    {
+     "name": "que",
+     "children": [
+      {
+       "name": "mon",
+       "children": [
+        {
+         "name": "pr\u00eate que mon cab",
+         "value": 3
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
